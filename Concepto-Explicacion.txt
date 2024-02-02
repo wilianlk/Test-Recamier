@@ -1,0 +1,14 @@
+En el programa hago referencia a los puntos 1-5 en el proyecto recamier
+donde creo una clase libro y voy explicando cada uno de los puntos
+
+en la parte 2
+
+creo una base de datos y por ende sus tablas de acuerdo al diagrama E-R
+
+en esta ocacion maneje la version 10.6.16-MariaDB , dejo la creacion de la base de datos con sus tablas y sus registros
+y el scrip eejcutado
+
+en la parte 3 
+
+creo el flujograma donde ya este lo paso a codigo y demuestro a partir de ello como funcionaria el aplicativo si el numero es primo o no 
+

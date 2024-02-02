@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recamier", "recamier\recamier.csproj", "{CC10DB86-FDA8-42E9-BB10-2077C29A7827}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flujograma-primo", "flujograma-primo\flujograma-primo.csproj", "{F1C0FD0F-DC49-41DA-BEC6-F9ABA05135B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC10DB86-FDA8-42E9-BB10-2077C29A7827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC10DB86-FDA8-42E9-BB10-2077C29A7827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC10DB86-FDA8-42E9-BB10-2077C29A7827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC10DB86-FDA8-42E9-BB10-2077C29A7827}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1C0FD0F-DC49-41DA-BEC6-F9ABA05135B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C0FD0F-DC49-41DA-BEC6-F9ABA05135B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C0FD0F-DC49-41DA-BEC6-F9ABA05135B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C0FD0F-DC49-41DA-BEC6-F9ABA05135B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ED5BB69-C1FE-4BB5-B9CA-29609FF0DFEC}
+	EndGlobalSection
+EndGlobal

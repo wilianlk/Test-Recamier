@@ -1,0 +1,7 @@
+C:\Users\wilia\source\repos\recamier\flujograma-primo\bin\Debug\flujograma-primo.exe.config
+C:\Users\wilia\source\repos\recamier\flujograma-primo\bin\Debug\flujograma-primo.exe
+C:\Users\wilia\source\repos\recamier\flujograma-primo\bin\Debug\flujograma-primo.pdb
+C:\Users\wilia\source\repos\recamier\flujograma-primo\obj\Debug\flujograma-primo.csproj.AssemblyReference.cache
+C:\Users\wilia\source\repos\recamier\flujograma-primo\obj\Debug\flujograma-primo.csproj.CoreCompileInputs.cache
+C:\Users\wilia\source\repos\recamier\flujograma-primo\obj\Debug\flujograma-primo.exe
+C:\Users\wilia\source\repos\recamier\flujograma-primo\obj\Debug\flujograma-primo.pdb

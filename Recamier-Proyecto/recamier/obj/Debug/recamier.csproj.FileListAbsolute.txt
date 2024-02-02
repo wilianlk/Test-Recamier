@@ -1,0 +1,14 @@
+C:\Users\wilia\source\repos\recamier\recamier\bin\Debug\recamier.exe.config
+C:\Users\wilia\source\repos\recamier\recamier\bin\Debug\recamier.exe
+C:\Users\wilia\source\repos\recamier\recamier\bin\Debug\recamier.pdb
+C:\Users\wilia\source\repos\recamier\recamier\obj\Debug\recamier.csproj.AssemblyReference.cache
+C:\Users\wilia\source\repos\recamier\recamier\obj\Debug\recamier.csproj.CoreCompileInputs.cache
+C:\Users\wilia\source\repos\recamier\recamier\obj\Debug\recamier.exe
+C:\Users\wilia\source\repos\recamier\recamier\obj\Debug\recamier.pdb
+C:\Users\wilia\source\repos\Test-Recamier\Recamier-Proyecto\recamier\bin\Debug\recamier.exe.config
+C:\Users\wilia\source\repos\Test-Recamier\Recamier-Proyecto\recamier\bin\Debug\recamier.exe
+C:\Users\wilia\source\repos\Test-Recamier\Recamier-Proyecto\recamier\bin\Debug\recamier.pdb
+C:\Users\wilia\source\repos\Test-Recamier\Recamier-Proyecto\recamier\obj\Debug\recamier.csproj.AssemblyReference.cache
+C:\Users\wilia\source\repos\Test-Recamier\Recamier-Proyecto\recamier\obj\Debug\recamier.csproj.CoreCompileInputs.cache
+C:\Users\wilia\source\repos\Test-Recamier\Recamier-Proyecto\recamier\obj\Debug\recamier.exe
+C:\Users\wilia\source\repos\Test-Recamier\Recamier-Proyecto\recamier\obj\Debug\recamier.pdb
