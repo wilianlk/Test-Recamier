@@ -6,7 +6,7 @@ en la parte 2
 creo una base de datos y por ende sus tablas de acuerdo al diagrama E-R
 
 en esta ocacion maneje la version 10.6.16-MariaDB , dejo la creacion de la base de datos con sus tablas y sus registros
-y el scrip eejcutado
+y el scrip ejecutado
 
 en la parte 3 
 
